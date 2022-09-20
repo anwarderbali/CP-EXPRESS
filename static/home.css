@@ -1,22 +1,13 @@
-#navbar{
-    background-color: rgb(153, 153, 253);
-    height: 50px;
-    display: flex;
-    justify-content: flex-end;
+ #nav{
+    background-color: rgb(213, 213, 247);
+   
 }
-.link{
-    border: 2px solid blue;
-    width: 100px;
-    margin-left: 20px;
-}
-.form{
+
+#form{
     border: 2px solid black;
-    height: 200px;
-    display: flex;
-    margin-top: 100px;
-margin-left: 400px;
-margin-right: 400px;
-flex-direction: column;
-justify-content: space-between;
-background-color: pink;
-}
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: pink;
+} 
